@@ -265,15 +265,15 @@ License
 
 📧 التواصل
 Contact
-البريد الإلكتروني: myown3216@gmail.com
+البريد الإلكتروني: your-email@example.com
 
-GitHub: Jaber4362
+GitHub:Jaber4362
 
-LinkedIn: [your-profile](https://t.me/Mdk680)
+LinkedIn: your-profile
 
 🙏 الشكر والتقدير
 Acknowledgments
-شكر خاص لفريق Laravel على إطار العمل الرائع
+
 
 📌 ملاحظة: هذا المشروع مبني لأغراض تعليمية لتطبيق مفاهيم Laravel بشكل عملي.
 
