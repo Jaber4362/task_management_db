@@ -265,11 +265,11 @@ License
 
 📧 التواصل
 Contact
-البريد الإلكتروني: your-email@example.com
+البريد الإلكتروني: myown3216@gmail.com
 
-GitHub: your-username
+GitHub: Jaber4362
 
-LinkedIn: your-profile
+LinkedIn: [your-profile](https://t.me/Mdk680)
 
 🙏 الشكر والتقدير
 Acknowledgments
