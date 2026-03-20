@@ -19,3 +19,13 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+ ## 📸 صور المشروع
+
+### صفحة المهام
+![صفحة المهام](https://github.com/Jaber4362/task_management_db/blob/main/screenshots/tasks.png?raw=true)
+
+### صفحة التصنيفات
+![صفحة التصنيفات](https://github.com/Jaber4362/task_management_db/blob/main/screenshots/homepage.png?raw=true)
+
+### لوحة التحكم
+![لوحة التحكم](https://github.com/Jaber4362/task_management_db/blob/main/screenshots/dashboard.png?raw=true)
